@@ -3546,7 +3546,8 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #242525;
+		/*#312450;*/
 		cursor: default;
 		height: 100vh;
 		left: 0;
