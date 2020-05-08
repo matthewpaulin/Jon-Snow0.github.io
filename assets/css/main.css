@@ -2999,6 +2999,10 @@
 		}
 
 /* Spotlights */
+.grad-border {
+	background: linear-gradient(to right, #b74e91, coral);
+	height: 5px;
+  }
 
 	.spotlights > section {
 		display: -moz-flex;
@@ -3028,6 +3032,8 @@
 			.spotlights > section > .image img {
 				border-radius: 0;
 				display: block;
+				width: 90%; 
+				height: 90%;
 			}
 
 			.spotlights > section > .image:before {
