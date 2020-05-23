@@ -1884,9 +1884,9 @@
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: transparent;
+		background-color: #333; /*was transparent*/
 		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border-color: coral !important;
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
